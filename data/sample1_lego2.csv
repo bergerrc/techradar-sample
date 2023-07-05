@@ -1,0 +1,67 @@
+name,ring,quadrant,isNew,description
+AWS AppSync,Adote,Plataformas,FALSE,"Serviço serverless de APIs GraphQL e Pub/Sub.
+<p>GSP - Excelência Operacional</p>"
+GraphQL Federation in AWS Lambda,Adote,Plataformas,FALSE,"Serviços GraphQL federados em arquitetura serverless Lambda.
+<p>GSP - Excelência Operacional</p>"
+AWS Pinpoint,Adote,Plataformas,FALSE,"Gerenciamento de Notificações, Segmentação e Campanhas.
+<p>GSP - Excelência Operacional</p>"
+AWS Personalize,Adote,Plataformas,FALSE,"Serviço para aplicação de ML, com treinamento de Modelos para Recomendação de itens e permite uso para segmentações e definições de perfis
+<p>GSP - Excelência Operacional</p> <p>GSP - Confiabilidade</p>
+<p>GRP - Excelência Operacional</p> <p>GRP - Confiabilidade</p>"
+Domain-Driven Design,Adote,Técnicas,FALSE,"Abordagem de desenho de software com foco na modelagem de acordo com Domínios.
+<p>GSP - Excelência Operacional</p>
+<p>GRP - Excelência Operacional</p>"
+Next.js,Experimente,Linguagens e frameworks,TRUE,"Next.js é um framework opinativo de configuração zero que inclui roteamento simplificado, compilação automática e empacotamento com Webpack e Babel, recarregamento rápido para um fluxo de trabalho de desenvolvimento conveniente, entre outros recursos. Ele fornece renderização do lado do servidor por padrão (SSR), melhora a otimização do mecanismo de pesquisa e o tempo de carregamento inicial, e oferece suporte à geração estática incremental. "
+Couchbase Capella,Avalie,Plataformas,TRUE,"Serviço totalmente gerenciado de banco de dados ""NewSQL"" com alta performance e escalabilidade horizontal (alto throughput e baixa latência) para estruturas de documentos JSON. Possui recursos de sincronismo de dados com dispositivos de borda (mobile) e pode manter os dados persistentes nos dispositivos mesmo quando fica offline por períodos de tempo devido à conectividade intermitente. Possui recurso de cache integrado de chave-valor, queries em SQL e documentos flexíveis em JSON, além de busca full-text e real-time analytics.
+<p>Permite aquisição através do AWS Marketplace</p>"
+Lambda Layer,Adote,Ferramentas,TRUE,"O uso de camadas reduz o tamanho dos arquivos de implantação carregados e acelera a implantação do código. Uma camada pode conter bibliotecas, um tempo de execução personalizado, dados ou arquivos de configuração. As camadas promovem o compartilhamento de código e a separação de responsabilidades para que você possa iterar mais rapidamente na escrita da lógica de negócios.
+A Extension API do Lambda ainda permite a utilização de serviços extras, como o acesso à configurações de runtime, sem criar acoplamento à tecnologia."
+PWA - Progressive Web Application,Avalie,Técnicas,TRUE,"O PWA se situa na intersecção entre o alcance das páginas web e do uso das capacidades dos dispositivos e a compatibilidade entre browsers e adoção nas lojas de aplicativos aumentou consideravelmente nos últimos anos. <a href=""https://web.dev/learn/pwa/progressive-web-apps"">Learn PWA<a/>"
+LeanIX,Adote,Ferramentas,FALSE,"Ferramenta para governança de Arquitetura.
+<p>Plataformas LEGO - Excelência Operacional, Otimização de custos, Sustentabilidade</p>"
+Deltalake,Adote,Plataformas,TRUE,Nova arquitetura para Datalake com streammer e batch Real Time <p>Jornadas e Plataformas Lego</P>
+Data-Driven,Avalie,Técnicas,FALSE,Tomada de decisão de Negócio a partir dos Dados<p>Jornadas e Plataformas Lego</p>
+Data-Mesh,Experimente,Técnicas,FALSE,Malha de Dados disponbilizando Dados como Produto<p>Jornadas e Plataformas Lego</p>
+Harness,Adote,Plataformas,FALSE,Plataforma de orquestração CI/CD <p>Infraestrutura & Devops</p>
+AWS EKS - Fargate,Adote,Plataformas,FALSE,"Utilização de containers serverless no Kubernetes.
+<p>Plataformas Lego - Performance, Custos</p>"
+Oracle Heatwave,Avalie,Plataformas,FALSE,"Serviço MySQL na nuvem com o HeatWave, um acelerador de consultas em memória integrado de alto desempenho<p>Jornadas e Plataformas</p>"
+AWS EKS - Instâncias Spot,Adote,Plataformas,FALSE,"Utilização de containers serverless e com baixíssimo custo.
+<p>Plataformas Lego - Performance, Custos</p>"
+AWS - Arm-based Processor,Adote,Plataformas,FALSE,"Utilização de processadores mais performáticos e mais baratos (Lambda, ElastiCache).
+<p>Plataformas Lego - Performance, Custos</p>"
+Master Data Management,Adote,Técnicas,FALSE,Cadastro unificado para dados de pouca alteração<p>Jornadas</p>
+Customer 360,Experimente,Plataformas,FALSE,Plataforma de análise de comportamento do cliente<p>Jornadas e Plataformas Lego</p>
+WebAuthn,Experimente,Técnicas,TRUE,"Web Authentication API for passwordless frameworks<br> <a href=""https://w3c.github.io/webauthn"">spec</a>|<a href=""https://webauthn.guide"">guid</a>
+Trata da adoção de técnicas complementares de autenticação sem senha, com validação por dispositivos biométricos ou de reconhecimento facial como os existentes nos smartphones. O padrão webauthn/FIDO2 foi largamento adotado pelos navegadores, tornando possível não só usar recursos existentes nos celulares como também nos notebooks Windows (Windows Hello) e Apple. A técnica consiste na validação de chaves públicas e privadas entre o navegador do dispositivo com o servidor de autenticação. Essa prática reduz em 81% (estudo de 2017) as tentativas de vazamentos de senhas por bancos de dados.
+<p>Jornadas e Plataformas Lego <button>Segurança</button></p>"
+Kappa Architecture,Experimente,Técnicas,TRUE,"Evolução da arquitetura Lambda para simplificação e utilização de fluxos redudantes e atendendo mais processos streamings. Criado por Jay Kreps em 2014 e adotado para maiores das empresas para obter melhor resposta, simplicidade e reduções de custos.
+<p>Jornadas e Plataformas Lego</p>
+<p>GCP/GRP - Otimização de Custo</p> <p>GCP/GRP - Performance</p>"
+AWS Step Function,Adote,Ferramentas,TRUE,"Orquestração dos componentes da AWS para minimizar codificações e triggers, com isso melhorar a gestão dos componentes e criando um fluxo de execuções de processos. Baixo custo de orquestração
+<p>Jornadas e Plataformas Lego</p>
+<p>GCP/GRP - Otimização de Custo</p> <p>GCP/GRP - Performance</p>"
+AWS Glue Catalog,Adote,Ferramentas,TRUE,"Criação de catálogo para entendimento e mudanças dos dados e melhorar a gestão e governança dos dados.
+<p>Jornadas e Plataformas Lego</p>
+<p>GCP/GRP - Excelência Operacional</p> "
+Python,Experimente,Linguagens e frameworks,FALSE,"Linguagem de programação focado em dados e machine learning e utilizado por diversos componentes da AWS como: Glue, EMR e Lambda
+<p>Jornadas e Plataformas Lego</p>
+<p>GCP/GRP - Excelência Operacional</p> "
+AWS Glue Script,Adote,Ferramentas,TRUE,"Produto de ingestão de dados na AWS para execuções de scripts Python ou Scala, utilizado Spark e sem a necessidade de cluster provisionado. Menor custo para execuções rápidas
+<p>Jornadas e Plataformas Lego</p>
+<p>GCP/GRP - Excelência Operacional</p>  <p>GCP/GRP - Otimização de Custo</p>  "
+Clean Code,Adote,Técnicas,TRUE,"Técnica de programação para facilitar o entendimento do código, com isso facilitando a revisão e manutenção dele. Conceitos compartilhado de Uncle Bob (Robert C. Martins) que é uns dos fundadores do manifesto ágil.
+https://natura.atlassian.net/wiki/spaces/CoEArquitetura/pages/3540975636/Doc+-+Clean+Code
+<p>Jornadas e Plataformas Lego </p>"
+Amazon RDS Proxy,Adote,Plataformas,FALSE,"Recurso auto-gerenciado do Amazon RDS que gerencia um pool de conexões com o banco de dados, diminuindo a quantidade de conexões abertas simultâneamente e com isso favorecendo um menor consumo de memória, além de reduzir o tempo de failover. É principalmente indicado para aplicações serverless."
+Everything as a Service (XaaS),Evite,Plataformas,TRUE,"Softwares oferecidos de tudo por serviço que seria um marketplace com a disponibilidade de diversas ferramentas, serviços e tenologia. Isso foi mais um buzzword e criado problema para clcientes ficarem preso por longo prazo e deixando a gestão com todo o provedor, apenas de forma contratual."
+The Internet of Behaviors (IOB),Evite,Técnicas,TRUE,"Coleta de comportamento de consumidores pela internet que eles chamam de Internet do Comportamento para obter interesses, preferências e outras informações. Isso apenas criou um grande volume e os comportamentos tem mudanças bem volátil como o perfil de consumidor pré-pandemia, pandemia e pós-pandemia por exemplo. Ainda que a conta do usuário pode ser usado por mais de um usuário que leva comportamentos diferentes. Isso apenas atrapalhou as empresas e ficou um custo muito alto, e ainda criando preconceitos e problemas com as analises de sentimentos. Ainda falta muito estudo neural para entender comportamento humano."
+Go,Avalie,Linguagens e frameworks,TRUE,"Linguagem de programação criada no Google, promete performance e facilidade de uso. Comumente usada em Backends e aplicações envolvendo infraestrutura e rede."
+Rust,Avalie,Linguagens e frameworks,TRUE,"Linguagem de programação com controles rígidos de memória, promete alta performance e baixo consumo de memória. Comumente usado para cenários de necessidade de extrema performance."
+Banco de Dados Temporal (Time Series Database),Avalie,Técnicas,FALSE,Dados para análise em tempo real<p>Jornadas</p>
+S3 Inteligent Tier,Avalie,Técnicas,FALSE,Movimentação de dados em camadas gerando save de custos de armazenamento<p>Jornadas e Plataformas</p>
+S3 Glacier Instant Retrieval,Avalie,Técnicas,FALSE,Armazenamento de informações em reposítório de baixo custo que pode ser recuperado em até 12 horas<p>Jornadas e Lego</p>
+S3 Glacier Deep Archive,Avalie,Técnicas,FALSE,Armazenamento de informações em reposítório de baixo custo que pode ser recuperado em até 48 horas<p>Jornadas e Lego</p>
+C4 Model diagramming,Adote,Ferramentas,TRUE,"Modelo de diagramas de Arquitetura, focado no Contexto, Containers, Componentes e Classes (C x 4). Muito simples e disponível em ferramentas de diagramação open-source como o Draw.io."
+ArchiMate diagramming,Avalie,Ferramentas,TRUE,"Modelo de diagramas de Arquitetura Corporativa, bastante completo e usado em grandes Corporações. Por ser complexo, exige esforço para sua criação e manutenção."
+Delphix,Adote,Plataformas,FALSE,Virtualização de Dados com cópia rápida em ambientes não-produtivos para Devops<p>Jornadas e Lego</p>
